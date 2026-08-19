@@ -1,0 +1,4 @@
+pyserial==3.5
+flask==3.0.0
+flask-cors==4.0.0
+pyinstaller>=6.10.0

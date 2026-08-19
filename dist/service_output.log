@@ -1,0 +1,8 @@
+
+--- AGENT SECeF SIGEL (BINARY MODE) ---
+Mode Simulation: NON
+Port configuré: /dev/cu.usbmodem14101 (9600 bauds)
+Dashboard: http://localhost:5006
+--------------------------
+ * Serving Flask app 'mcf_agent'
+ * Debug mode: off
